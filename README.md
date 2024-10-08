@@ -21,3 +21,7 @@ Activate the virtual environment with:
 ```
 source bin/activate
 ```
+Install dependencies:
+```
+pip install -r requirements.txt
+```

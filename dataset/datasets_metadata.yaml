@@ -1,0 +1,74 @@
+- folders_to_download:
+  - download_link: https://download.ifi.uzh.ch/rpg/DSEC/train_coarse/train_events.zip
+    folder_name: train_events
+    google_drive: false
+    hash: ??
+    size_in_GB: '125.0'
+  - download_link: https://download.ifi.uzh.ch/rpg/DSEC/train_coarse/train_images.zip
+    folder_name: train_images
+    google_drive: false
+    hash: ??
+    size_in_GB: '216.0'
+  - download_link: https://download.ifi.uzh.ch/rpg/DSEC/train_coarse/train_disparity.zip
+    folder_name: train_disparity
+    google_drive: false
+    hash: ??
+    size_in_GB: '12.0'
+  - download_link: https://download.ifi.uzh.ch/rpg/DSEC/train_coarse/train_optical_flow.zip
+    folder_name: train_optical_flow
+    google_drive: false
+    hash: ??
+    size_in_GB: '3.7'
+  - download_link: https://download.ifi.uzh.ch/rpg/DSEC/semantic/train_semantic_segmentation.zip
+    folder_name: train_semantic_segmentation
+    google_drive: false
+    hash: ??
+    size_in_GB: '0.1'
+  - download_link: https://download.ifi.uzh.ch/rpg/DSEC/train_coarse/train_calibration.zip
+    folder_name: train_calibration
+    google_drive: false
+    hash: ??
+    size_in_GB: '0.0'
+  - download_link: https://download.ifi.uzh.ch/rpg/DSEC/test_coarse/test_events.zip
+    folder_name: test_events
+    google_drive: false
+    hash: ??
+    size_in_GB: '27.0'
+  - download_link: https://download.ifi.uzh.ch/rpg/DSEC/test_coarse/test_images.zip
+    folder_name: test_images
+    google_drive: false
+    hash: ??
+    size_in_GB: '43.0'
+  - download_link: https://download.ifi.uzh.ch/rpg/DSEC/semantic/test_semantic_segmentation.zip
+    folder_name: test_semantic_segmentation
+    google_drive: false
+    hash: ??
+    size_in_GB: '0.0'
+  - download_link: https://download.ifi.uzh.ch/rpg/DSEC/test_coarse/test_calibration.zip
+    folder_name: test_calibration
+    google_drive: false
+    hash: ??
+    size_in_GB: '0.0'
+  name: DSEC
+- folders_to_download:
+  - download_link: https://drive.google.com/drive/folders/1SV6nQ-ONQmLnCo3aVQFtO6NJ7yXfSmvT?usp=drive_link
+    folder_name: outdoor_night
+    google_drive: true
+    hash: ??
+    size_in_GB: ??
+  - download_link: https://drive.google.com/drive/folders/1CEuvvahWQntNIqXWZhXu_WknsTLm4Sum?usp=drive_link
+    folder_name: indoor_flying
+    google_drive: true
+    hash: ??
+    size_in_GB: ??
+  - download_link: https://drive.google.com/drive/folders/1WUapfrd2DNQNuxPt9IqUHCcPCPKLiNvT?usp=drive_link
+    folder_name: outdoor_day
+    google_drive: true
+    hash: ??
+    size_in_GB: ??
+  - download_link: https://drive.google.com/drive/folders/1z9DfyFLVhkksJAP9h-pfr8ByewhYeRnu?usp=drive_link
+    folder_name: motorcycle
+    google_drive: true
+    hash: ??
+    size_in_GB: ??
+  name: MVSEC

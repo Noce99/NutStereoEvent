@@ -5,3 +5,8 @@ bin/
 lib/
 lib64
 pyvenv.cfg
+dataset/*
+!dataset/datasets_metadata.yaml
+datasets_small/
+
+__pycache__
