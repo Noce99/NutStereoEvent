@@ -1,0 +1,3 @@
+[submodule "other_projects/fedstereo"]
+	path = other_projects/fedstereo
+	url = git@github.com:mattpoggi/fedstereo.git
