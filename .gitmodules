@@ -1,3 +1,6 @@
 [submodule "other_projects/fedstereo"]
 	path = other_projects/fedstereo
 	url = git@github.com:mattpoggi/fedstereo.git
+[submodule "other_projects/DSEC"]
+	path = other_projects/DSEC
+	url = https://github.com/uzh-rpg/DSEC.git
