@@ -3,7 +3,11 @@ pyyaml
 setuptools
 checksumdir
 wget
-gdown
+gdown # Not used?
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
+h5py
+numba
+numpy
+scikit-video
